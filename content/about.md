@@ -3,10 +3,9 @@
 type: misc
 
 # change these
-jobTitle: Researcher
+jobTitle: PhD student and researcher
 name: Shaina Murphy
 bio: true
 icon: ":coffee:"
 ---
 
-Add your Bio here!:+1:
