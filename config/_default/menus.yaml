@@ -12,3 +12,6 @@ main:
 - name: About
   url: /about/
   weight: 30
+- name: Download CV
+  url: /cv/
+  weight: 30

@@ -5,3 +5,7 @@
 
 # Apple stuff
 .DS_Store
+
+# VS Code stuff
+.vscode/
+.idea/

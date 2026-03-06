@@ -3,9 +3,9 @@
 ############################
 
 author:
-  name: shainamurphy
-  image: author.png
-  greeting: "Your new Qubt site :tada:"
+  name: Shaina Murphy
+  image: headshot.png
+  greeting: "Aspiring human computer interaction researcher. :tada:"
   icon: ":wave:"
 
 ############################
@@ -13,12 +13,12 @@ author:
 ############################
 
 links:
-  - github: https://github.com/shainamurphy/qubt
-  - link: https://github.com/shainamurphy/qubt#readme
+  - github: https://github.com/shainamurphy/
+  # - link: https://github.com/shainamurphy/
   # - website: 
   # - x-twitter: 
   # - mastodon: 
-  # - linkedin: 
+  - linkedin: https://www.linkedin.com/in/shainamurphy/
   # - instagram: 
   # - reddit: 
   # - telegram: 
@@ -26,9 +26,9 @@ links:
   # - signal: 
   # - codepen: 
   # - dev: 
-  # - email: 
+  - email: mailto:shainanmurphy@gmail.com
   # - discord: 
-  # - orcid: 
+  - orcid: https://orcid.org/0009-0006-2683-3694
   # - slack: 
   # - stack-overflow: 
   # - twitch: 
@@ -64,7 +64,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: qubt
+title: Shaina Murphy
 description: "Site build with Qubt & Hugo"
 images:
   - thumbnail.png
